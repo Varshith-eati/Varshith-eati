@@ -1,133 +1,206 @@
 
+
+
+<!-- ========================================================= -->
+<!--                    EATI VARSHITH                          -->
+<!--          INTERSTELLAR × MINECRAFT × AI                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 🌌 EATI VARSHITH
-
-### `CSE Student • Technology Explorer • AI/ML Learner`
-
-**🟢 SYSTEM STATUS: ONLINE**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:312e81&height=220&section=header&text=EATI%20VARSHITH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECHNOLOGY%20EXPLORER%20%7C%20CSE%20STUDENT&descAlignY=58&descSize=18"/>
 
 <br>
 
-> ⚡ **Learn. Build. Explore. Repeat.**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Welcome%2C+Explorer+%F0%9F%8C%8C;Initializing+Varshith.exe...+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Machine+Learning+%F0%9F%A7%A0;Building+Raphael+AI+%F0%9F%A4%96;Learn.+Build.+Explore.+Repeat.+%E2%9A%A1"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=varshith-eati&label=EXPLORERS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/varshith-eati?style=for-the-badge&label=FOLLOWERS&color=6366f1"/>
+
+<img src="https://img.shields.io/github/stars/varshith-eati?style=for-the-badge&label=STARS&color=f59e0b"/>
+
+<br><br>
+
+### 🟢 SYSTEM STATUS: ONLINE
+
+`🌌 LOCATION: GITHUB` &nbsp; `🚀 MISSION: ACTIVE` &nbsp; `🤖 AI CORE: LEARNING`
 
 </div>
 
 ---
 
-## 🧭 ABOUT THE EXPLORER
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    EXPLORER PROFILE                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  👨‍🚀 Name          : Eati Varshith                           │
-│  🎓 Status         : 3rd Year CSE Student                   │
-│  🧑‍💻 Coding Since  : 2024                                   │
-│  🐍 First Language : Python                                  │
-│  🧠 Currently      : Exploring AI & Machine Learning         │
-│  🤖 Main Mission   : Building Raphael AI                     │
-│  🎯 Career Path    : Still Exploring...                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+# 🌌 `WELCOME, EXPLORER`
 
-I'm a **3rd-year Computer Science Engineering student** who enjoys understanding **how technology works**.
+### 👨‍🚀 Eati Varshith
 
-I started coding in **2024**, with Python as my first programming language.
+**3rd Year Computer Science Engineering Student**
 
-Currently, I'm exploring **Artificial Intelligence, Machine Learning, LLMs and Cloud Systems** while building projects and experimenting with new technologies.
+> *"The universe is under no obligation to make sense to you."*
+
+<br>
+
+**I am fascinated by one question:**
+
+### `How does technology actually work?`
+
+That's what started my coding journey in **2024**.
+
+Now I'm exploring **AI, ML, LLMs and Cloud Systems** while building things along the way.
+
+</div>
 
 ---
 
-# 🎯 MISSION BOARD
+# 🛰️ EXPLORER PROFILE
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    🌌 CURRENT MISSIONS                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🟢 MAIN QUEST                                               ║
-║     Build Raphael — Personal AI Assistant                   ║
-║                                                              ║
-║  🟡 SIDE QUEST                                               ║
-║     Master Artificial Intelligence & Machine Learning        ║
-║                                                              ║
-║  🔵 EXPLORATION                                              ║
-║     Discover new technologies                                ║
-║                                                              ║
-║  🟣 NEXT WORLDS                                              ║
-║     AI • ML • LLMs • Cloud Systems                           ║
-║                                                              ║
-║  ⚪ UNKNOWN DESTINATION                                      ║
-║     Career Path: Still Exploring...                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                    ╔══════════════════════════════╗
+                    ║      EXPLORER PROFILE        ║
+                    ╠══════════════════════════════╣
+                    ║                              ║
+                    ║  👨‍🚀 Eati Varshith           ║
+                    ║                              ║
+                    ║  🎓 3rd Year CSE             ║
+                    ║  🐍 Started Coding: 2024     ║
+                    ║  💻 First Language: Python   ║
+                    ║                              ║
+                    ║  🧠 AI/ML: LEARNING          ║
+                    ║  🤖 Raphael: BUILDING        ║
+                    ║                              ║
+                    ║  🎯 Career: EXPLORING        ║
+                    ║                              ║
+                    ╚══════════════════════════════╝
 ```
 
 ---
 
-# 🤖 CURRENT MISSION — RAPHAEL
+# 🎯 MISSION CONTROL
 
-### `STATUS: 🟢 ACTIVE`
-
-I'm currently working on **Raphael**, a customizable personal AI assistant inspired by the idea of an intelligent digital companion.
-
-The goal is to create something that can evolve beyond a simple chatbot into a **personal desktop assistant** capable of interacting with my computer, understanding voice commands, assisting with tasks, and eventually becoming my own customizable AI system.
+<div align="center">
 
 ```text
-        ┌──────────────────────────────┐
-        │       🤖 RAPHAEL CORE        │
-        ├──────────────────────────────┤
-        │                              │
-        │   AI         ███████░░░       │
-        │   Voice      █████░░░░░       │
-        │   Automation ██████░░░░       │
-        │   Learning   █████░░░░░       │
-        │                              │
-        │   STATUS: UNDER DEVELOPMENT  │
-        │                              │
-        └──────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                    🚀 MISSION CONTROL                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🟢 MAIN QUEST                                             ║
+║                                                            ║
+║     🤖 BUILD RAPHAEL — PERSONAL AI ASSISTANT              ║
+║                                                            ║
+║     ███████████████░░░░░░░░░░░░░  ACTIVE                  ║
+║                                                            ║
+║                                                            ║
+║  🟡 SIDE QUEST                                             ║
+║                                                            ║
+║     🧠 MASTER ARTIFICIAL INTELLIGENCE & ML                ║
+║                                                            ║
+║     ███████████░░░░░░░░░░░░░░░░░  LEARNING               ║
+║                                                            ║
+║                                                            ║
+║  🔵 EXPLORATION                                            ║
+║                                                            ║
+║     🌌 DISCOVER NEW TECHNOLOGIES                           ║
+║                                                            ║
+║     █████████████████░░░░░░░░░░  ONGOING                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+# 🤖 CURRENT MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=RAPHAEL+AI;PERSONAL+AI+ASSISTANT;SYSTEM+UNDER+DEVELOPMENT"/>
+
+</div>
+
+I'm currently building **Raphael**, a customizable personal AI assistant inspired by the concept of an intelligent digital companion.
+
+The long-term goal is to create an assistant capable of:
+
+```text
+       🎙️ Voice Interaction
+              │
+              ▼
+       🧠 Intelligence
+              │
+       ┌──────┼──────┐
+       ▼      ▼      ▼
+      🤖     💻     🌐
+      AI   Computer  Web
+             Control
+       │      │      │
+       └──────┼──────┘
+              ▼
+         👨‍🚀 USER
+```
+
+### `STATUS: 🟢 UNDER DEVELOPMENT`
 
 ---
 
 # ⛏️ TECHNOLOGY INVENTORY
 
-### 💻 Languages
+## 💻 LANGUAGES
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,kotlin" />
-</p>
+<div align="center">
 
-### 🌐 Web & Frameworks
+<img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin&perline=8" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,babel,redux,nodejs,express" />
-</p>
+</div>
 
-### 🗄️ Databases & Backend
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+## 🌐 WEB DEVELOPMENT
 
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<div align="center">
 
-### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=html,css,react,babel,redux,nodejs,express&perline=8" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
-</p>
+</div>
 
-### 🛠️ Development Tools
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,postman,unity" />
-</p>
+## 🗄️ DATABASES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+---
+
+## ☁️ CLOUD & DEVOPS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git&perline=8" />
+
+</div>
+
+---
+
+## 🛠️ TOOLS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,postman,unity&perline=8" />
+
+</div>
 
 ---
 
@@ -137,10 +210,12 @@ The goal is to create something that can evolve beyond a simple chatbot into a *
 
 <img src="https://skillicons.dev/icons?i=python" />
 
-### 🤖 Artificial Intelligence
-### 🧠 Machine Learning
-### 💬 Large Language Models
-### ☁️ Cloud Systems
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Systems-111827?style=for-the-badge&logo=icloud&logoColor=white"/>
 
 </div>
 
@@ -150,37 +225,45 @@ The goal is to create something that can evolve beyond a simple chatbot into a *
 
 ## 📱 Remote Laptop Control
 
-A project that allows me to **control my laptop using my mobile device**.
+> `MISSION TYPE: REMOTE CONTROL`
+
+A project that allows me to control my laptop using my mobile device.
 
 ```text
-📱 Mobile
-   │
-   ▼
-🌐 Network
-   │
-   ▼
-💻 Laptop
+          📱 MOBILE
+              │
+              │
+              ▼
+        🌐 NETWORK
+              │
+              │
+              ▼
+          💻 LAPTOP
 ```
 
-🔗 [**View Repository →**](https://github.com/Varshith-eati/Remote_Laptop_Control)
+<a href="https://github.com/Varshith-eati/Remote_Laptop_Control">
+<img src="https://img.shields.io/badge/VIEW%20MISSION-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
 ## 🏓 Ping Pong X3000
 
-A Ping Pong game featuring **single-player and multiplayer gameplay**.
+> `MISSION TYPE: GAME DEVELOPMENT`
 
-This is one of the projects I'm most proud of because it was one of my bigger hands-on development experiments.
+A Ping Pong game supporting:
 
 ```text
-🎮 GAME MODES
-
-🧍 Single Player
-        +
-👥 Multiplayer
+        🧍 SINGLE PLAYER
+               +
+        👥 MULTIPLAYER
 ```
 
-🔗 [**View Repository →**](https://github.com/Varshith-eati/Ping-Pong-X3000)
+One of the projects I'm most proud of.
+
+<a href="https://github.com/Varshith-eati/Ping-Pong-X3000">
+<img src="https://img.shields.io/badge/VIEW%20MISSION-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -188,85 +271,142 @@ This is one of the projects I'm most proud of because it was one of my bigger ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varshith-eati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=varshith-eati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=varshith-eati&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=varshith-eati&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-eati&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith-eati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 👁️ PROFILE EXPLORERS
+# 🗺️ CONTRIBUTION MAP
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=varshith-eati&label=PROFILE%20EXPLORERS&color=blueviolet&style=for-the-badge" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshith-eati&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🌠 NEXT WORLDS TO EXPLORE
+# 🐍 CONTRIBUTION SNAKE
 
-```text
-              🌌 TECHNOLOGY HORIZON
+<div align="center">
 
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-         🤖           🧠           💬
-         AI           ML          LLMs
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       ▼
-                       ☁️
-                CLOUD SYSTEMS
-```
+<img src="https://raw.githubusercontent.com/Varshith-eati/Varshith-eati/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
-# 🎨 BEYOND THE CODE
+# 🌠 NEXT WORLDS
 
-When I'm not coding, you'll probably find me:
+<div align="center">
 
-🎨 **Drawing**
+```text
+                    🌌 DEEP SPACE
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   UNKNOWN     │
+                 │   WORLDS      │
+                 └───────┬───────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+        🤖 AI           🧠 ML          💬 LLMs
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                         ▼
+                    ☁️ CLOUD
+                     SYSTEMS
+```
 
-🎮 **Gaming**
+</div>
 
-🔬 **Learning about new technologies**
+---
+
+# 🎮 PLAYER PROFILE
+
+<div align="center">
+
+| 🎮 Attribute | 🧭 Status |
+|:---:|:---:|
+| 🎨 Drawing | `ACTIVE` |
+| 🎮 Gaming | `ACTIVE` |
+| 🔬 New Technology | `ALWAYS EXPLORING` |
+| 🤖 AI / ML | `LEARNING` |
+| 🚀 Building | `ACTIVE` |
+| 🌌 Exploring | `∞` |
+
+</div>
 
 ---
 
 # 📺 ANIME ARCHIVE
 
 <details>
-<summary>🌌 Open Explorer's Archive</summary>
+
+<summary>🌌 OPEN EXPLORER'S ARCHIVE</summary>
 
 <br>
 
-⚔️ **Attack on Titan**
+<div align="center">
 
-🍥 **Naruto**
-
-🏴‍☠️ **One Piece**
-
-⚡ **Pokémon**
-
-💥 **KonoSuba**
-
-🌑 **The Eminence in Shadow**
-
+⚔️ **Attack on Titan**  
+🍥 **Naruto**  
+🏴‍☠️ **One Piece**  
+⚡ **Pokémon**  
+💥 **KonoSuba**  
+🌑 **The Eminence in Shadow**  
 🌀 **That Time I Got Reincarnated as a Slime**
 
+</div>
+
 </details>
+
+---
+
+# 🎯 CAREER PATH
+
+<div align="center">
+
+### `DESTINATION: UNKNOWN`
+
+```text
+             🌌 START
+                │
+                ▼
+         💻 COMPUTER SCIENCE
+                │
+                ▼
+          🤖 ARTIFICIAL
+          INTELLIGENCE
+                │
+                ▼
+         🧠 MACHINE LEARNING
+                │
+                ▼
+            ❓ UNKNOWN
+                │
+                ▼
+          🚀 DISCOVERING...
+```
+
+> I haven't decided exactly where I want to go yet.
+>
+> And that's okay.
+>
+> **I'm still exploring.**
+
+</div>
 
 ---
 
@@ -274,58 +414,63 @@ When I'm not coding, you'll probably find me:
 
 <div align="center">
 
-### ⚡ Learn. Build. Explore. Repeat.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=LEARN.;BUILD.;EXPLORE.;REPEAT."/>
 
-<br>
+<br><br>
 
 > *"We used to look up at the sky and wonder at our place in the stars."*
 
-**— Interstellar**
+### — Interstellar
 
 </div>
 
 ---
 
-# 🛰️ SYSTEM STATUS
+# 🛰️ RAPHAEL TERMINAL
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     RAPHAEL TERMINAL                         ║
+║                    RAPHAEL TERMINAL                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   Explorer        : Eati Varshith                            ║
 ║   System          : GitHub                                   ║
 ║   Status          : 🟢 ONLINE                               ║
 ║   Current Mission : Raphael AI                               ║
-║   XP              : ███████████░░░░░                         ║
-║   Next Objective  : AI / ML                                  ║
+║                                                               ║
+║   XP              : ███████████░░░░░                     ║
+║   AI Core         : ███████░░░░░░░░                      ║
+║   ML Core         : █████░░░░░░░░░                       ║
+║   Exploration     : █████████████████░░                ║
+║                                                              ║
+║   Career Path     : UNKNOWN                                  ║
 ║   Destination     : UNKNOWN                                  ║
 ║                                                              ║
-║              "The journey is the discovery."                ║
+║              MISSION STATUS: ACTIVE                          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🌐 CONNECT WITH THE EXPLORER
+# 🌐 CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/varshith-eati-0080661b0/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<a href="https://github.com/varshith-eati">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/varshith-eati-0080661b0/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/varshitheati/">
-<img src="https://skillicons.dev/icons?i=instagram" width="55" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/varshith-eati">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=instagram" width="60"/>
 </a>
 
 </div>
@@ -334,14 +479,58 @@ When I'm not coding, you'll probably find me:
 
 <div align="center">
 
-### 🌌 END OF TRANSMISSION
+<br>
 
-`[ SYSTEM ONLINE ]` • `[ MISSION ACTIVE ]` • `[ EXPLORATION CONTINUES ]`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:000000&height=120&section=footer"/>
+
+### 🌌 `END OF TRANSMISSION`
+
+`[ SYSTEM ONLINE ]` &nbsp;•&nbsp; `[ MISSION ACTIVE ]` &nbsp;•&nbsp; `[ EXPLORATION CONTINUES ]`
 
 <br>
 
-**🚀 Keep exploring.**
+### 🚀 **Keep exploring.**
 
 </div>
 ```
 
+### 🐍 One setup step for the animated snake
+
+The snake won't appear just by pasting the README. Your GitHub repository needs a GitHub Action that generates:
+
+`github-contribution-grid-snake.svg`
+
+Create this file:
+
+```text
+.github/workflows/snake.yml
+```
+
+and put:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+```
