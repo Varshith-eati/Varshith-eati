@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+source-photo.*
+source-prepped.png
+.preview/
+

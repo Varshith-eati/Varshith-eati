@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="400" viewBox="0 0 490 400" role="img" aria-labelledby="title desc">
+<title id="title">Eati Varshith - profile</title><desc id="desc">Computer Science Engineering student. Building Raphael - personal AI assistant. Learning AI / ML / LLMs / cloud systems.</desc>
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}@media(prefers-reduced-motion:reduce){.reveal{animation:none!important}}</style>
+<rect width="490" height="400" rx="12" fill="#0d1117"/>
+<rect x=".5" y=".5" width="489" height="399" rx="12" fill="none" stroke="#30363d"/>
+<circle cx="20" cy="21" r="3.5" fill="#6e7681"/>
+<circle cx="34" cy="21" r="3.5" fill="#919ba8"/>
+<circle cx="48" cy="21" r="3.5" fill="#d1d9e0"/>
+<text x="77" y="25" font-size="10" fill="#919ba8" >~/about / neofetch</text>
+<path d="M1 40H489" stroke="#21262d"/>
+<style>@keyframes enter{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}</style>
+<text x="24" y="72" font-size="16" fill="#69f0a0" >Varshith-eati@github</text>
+<text x="24" y="93" font-size="12" fill="#919ba8" >-----------------------------------------</text>
+<g class="reveal" style="animation:enter .32s ease-out 0.00s both">
+<text x="24" y="120" font-size="11.5" fill="#69f0a0" >Name:</text>
+<text x="85" y="120" font-size="11.5" fill="#d1d9e0" >Eati Varshith</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.10s both">
+<text x="24" y="141" font-size="11.5" fill="#69f0a0" >Role:</text>
+<text x="85" y="141" font-size="11.5" fill="#d1d9e0" >Computer Science Engineering student</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.20s both">
+<text x="24" y="162" font-size="11.5" fill="#69f0a0" >Now:</text>
+<text x="85" y="162" font-size="11.5" fill="#d1d9e0" >Raphael - personal AI assistant</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.30s both">
+<text x="24" y="183" font-size="11.5" fill="#69f0a0" >Learn:</text>
+<text x="85" y="183" font-size="11.5" fill="#d1d9e0" >AI / ML / LLMs / cloud systems</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.40s both">
+<text x="24" y="204" font-size="11.5" fill="#69f0a0" >Lang:</text>
+<text x="85" y="204" font-size="11.5" fill="#d1d9e0" >Python / JavaScript / Java / Kotlin</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.50s both">
+<text x="24" y="225" font-size="11.5" fill="#69f0a0" >Web:</text>
+<text x="85" y="225" font-size="11.5" fill="#d1d9e0" >React / Node.js / Express</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.60s both">
+<text x="24" y="246" font-size="11.5" fill="#69f0a0" >Data:</text>
+<text x="85" y="246" font-size="11.5" fill="#d1d9e0" >MongoDB / MySQL / Redis</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.70s both">
+<text x="24" y="267" font-size="11.5" fill="#69f0a0" >Tools:</text>
+<text x="85" y="267" font-size="11.5" fill="#d1d9e0" >Git / Linux / Docker / AWS</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.80s both">
+<text x="24" y="288" font-size="11.5" fill="#69f0a0" >Built:</text>
+<text x="85" y="288" font-size="11.5" fill="#d1d9e0" >Remote Laptop Control</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 0.90s both">
+<text x="24" y="309" font-size="11.5" fill="#69f0a0" ></text>
+<text x="85" y="309" font-size="11.5" fill="#d1d9e0" >Ping Pong X3000</text>
+</g>
+<g class="reveal" style="animation:enter .32s ease-out 1.00s both">
+<text x="24" y="330" font-size="11.5" fill="#69f0a0" >Since:</text>
+<text x="85" y="330" font-size="11.5" fill="#d1d9e0" >2024</text>
+</g>
+<text x="24" y="379" font-size="11" fill="#919ba8" >$ Learn. Build. Explore. Repeat.</text>
+<rect x="366" y="365" width="16" height="16" rx="2" fill="#0e4429"/>
+<rect x="384" y="365" width="16" height="16" rx="2" fill="#006d32"/>
+<rect x="402" y="365" width="16" height="16" rx="2" fill="#26a641"/>
+<rect x="420" y="365" width="16" height="16" rx="2" fill="#39d353"/>
+<rect x="438" y="365" width="16" height="16" rx="2" fill="#69f0a0"/>
+</svg>
