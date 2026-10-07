@@ -1,0 +1,115 @@
+[
+  {
+    "category": "Languages",
+    "items": [
+      {
+        "name": "Java",
+        "icon": "Java-Dark.svg"
+      },
+      {
+        "name": "Python",
+        "icon": "Python-Dark.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "JavaScript.svg"
+      },
+      {
+        "name": "Kotlin",
+        "icon": "Kotlin-Dark.svg"
+      }
+    ]
+  },
+  {
+    "category": "Web",
+    "items": [
+      {
+        "name": "HTML",
+        "icon": "HTML.svg"
+      },
+      {
+        "name": "CSS",
+        "icon": "CSS.svg"
+      },
+      {
+        "name": "React",
+        "icon": "React-Dark.svg"
+      },
+      {
+        "name": "Babel",
+        "icon": "Babel.svg"
+      },
+      {
+        "name": "Redux",
+        "icon": "Redux.svg"
+      },
+      {
+        "name": "Node.js",
+        "icon": "NodeJS-Dark.svg"
+      },
+      {
+        "name": "Express",
+        "icon": "ExpressJS-Dark.svg"
+      }
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      {
+        "name": "MongoDB",
+        "icon": "MongoDB.svg"
+      },
+      {
+        "name": "MySQL",
+        "icon": "MySQL-Dark.svg"
+      },
+      {
+        "name": "Redis",
+        "icon": "Redis-Dark.svg"
+      },
+      {
+        "name": "Oracle",
+        "icon": "oracle.svg"
+      }
+    ]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "items": [
+      {
+        "name": "AWS",
+        "icon": "AWS-Dark.svg"
+      },
+      {
+        "name": "Docker",
+        "icon": "Docker.svg"
+      },
+      {
+        "name": "Linux",
+        "icon": "Linux-Dark.svg"
+      },
+      {
+        "name": "Git",
+        "icon": "Git.svg"
+      }
+    ]
+  },
+  {
+    "category": "Tools",
+    "items": [
+      {
+        "name": "Figma",
+        "icon": "Figma-Dark.svg"
+      },
+      {
+        "name": "Postman",
+        "icon": "Postman.svg"
+      },
+      {
+        "name": "Unity",
+        "icon": "Unity-Dark.svg"
+      }
+    ]
+  }
+]

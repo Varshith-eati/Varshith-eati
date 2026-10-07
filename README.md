@@ -17,6 +17,12 @@
 
 <br>
 
+<h3><code>varshith@github ~ $ ls skills/</code></h3>
+
+<img src="./skills.svg" width="860" alt="Skills: Java, Python, JavaScript, Kotlin; HTML, CSS, React, Babel, Redux, Node.js, Express; MongoDB, MySQL, Redis, Oracle; AWS, Docker, Linux, Git; Figma, Postman, Unity. Each technology is shown with its logo and name." />
+
+<br><br>
+
 <h3><code>varshith@github ~ $ ls projects/</code></h3>
 
 </div>

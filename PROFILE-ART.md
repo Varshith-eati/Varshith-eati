@@ -1,6 +1,6 @@
 # Maintaining this profile
 
-The README embeds three self-contained SVGs. Animations play once, then keep the
+The README embeds four self-contained SVGs. Animations play once, then keep the
 finished frame. There is no JavaScript, remote stylesheet, font download, stats
 widget, or external image-rendering service. Reduced-motion preferences show the
 finished frame immediately.
@@ -11,6 +11,15 @@ Edit `data/profile.json`, then run `python scripts/make_info_card.py` and commit
 the JSON and SVG. The workflow also regenerates the card after profile changes.
 The initial facts came from the previous profile README; the student role does
 not assume that a particular academic year remains current.
+
+## Change the skills card
+
+Edit `data/skills.json` and run `python scripts/make_skills_svg.py`, then commit
+the JSON and `skills.svg`. Each logo is embedded as vector artwork, so the card
+does not depend on a hosted icon service. The original SVG logos, source URLs,
+and MIT licenses are in `assets/skills/`. Most logos come from
+[Skill Icons](https://github.com/tandpfun/skill-icons); the Oracle logo comes from
+[Devicon](https://github.com/devicons/devicon). Brand marks belong to their owners.
 
 ## Change the portrait
 

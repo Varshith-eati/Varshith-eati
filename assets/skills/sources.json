@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Java",
+    "file": "Java-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg"
+  },
+  {
+    "name": "Python",
+    "file": "Python-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg"
+  },
+  {
+    "name": "JavaScript",
+    "file": "JavaScript.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg"
+  },
+  {
+    "name": "Kotlin",
+    "file": "Kotlin-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kotlin-Dark.svg"
+  },
+  {
+    "name": "HTML",
+    "file": "HTML.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg"
+  },
+  {
+    "name": "CSS",
+    "file": "CSS.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg"
+  },
+  {
+    "name": "React",
+    "file": "React-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"
+  },
+  {
+    "name": "Babel",
+    "file": "Babel.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Babel.svg"
+  },
+  {
+    "name": "Redux",
+    "file": "Redux.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redux.svg"
+  },
+  {
+    "name": "Node.js",
+    "file": "NodeJS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg"
+  },
+  {
+    "name": "Express",
+    "file": "ExpressJS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg"
+  },
+  {
+    "name": "MongoDB",
+    "file": "MongoDB.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg"
+  },
+  {
+    "name": "MySQL",
+    "file": "MySQL-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg"
+  },
+  {
+    "name": "Redis",
+    "file": "Redis-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redis-Dark.svg"
+  },
+  {
+    "name": "Oracle",
+    "file": "oracle.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/oracle/oracle-original.svg"
+  },
+  {
+    "name": "AWS",
+    "file": "AWS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Dark.svg"
+  },
+  {
+    "name": "Docker",
+    "file": "Docker.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg"
+  },
+  {
+    "name": "Linux",
+    "file": "Linux-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Dark.svg"
+  },
+  {
+    "name": "Git",
+    "file": "Git.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg"
+  },
+  {
+    "name": "Figma",
+    "file": "Figma-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Figma-Dark.svg"
+  },
+  {
+    "name": "Postman",
+    "file": "Postman.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Postman.svg"
+  },
+  {
+    "name": "Unity",
+    "file": "Unity-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Unity-Dark.svg"
+  }
+]
