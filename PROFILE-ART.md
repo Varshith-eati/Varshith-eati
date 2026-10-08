@@ -1,9 +1,6 @@
 # Maintaining this profile
 
-The README embeds four self-contained SVGs. Animations play once, then keep the
-finished frame. There is no JavaScript, remote stylesheet, font download, stats
-widget, or external image-rendering service. Reduced-motion preferences show the
-finished frame immediately.
+The README embeds locally stored SVG cards and contribution animations, plus a decorative Pac-Man GIF linked from the reference profile. The portrait, info card, and heatmap reveal once and keep their finished frame. The arcade animations loop. There is no JavaScript in the README, remote stylesheet, font download, or external stats-rendering service. The original portrait and cards respect reduced-motion preferences. The decorative GIF and third-party arcade animations may continue to move.
 
 The headings and card labels use a clean sans-serif font. Only the ASCII
 portrait uses a monospace font to keep its character grid aligned.
@@ -89,3 +86,43 @@ Inspired by Avi Vashishta's supplied guide, *How I Built an Animated GitHub Prof
 README (ASCII Portrait + Neofetch Card + Live Contribution Graph)* (July 2026).
 The implementation is written for this profile: a typing monochrome portrait,
 staggered neofetch card, diagonal calendar reveal, and table-based README layout.
+
+
+## GitHub stats and language breakdown
+
+`scripts/fetch_github_stats.py` retrieves public profile and repository data from
+GitHub REST and stores it in `data/github-stats.json`. `render_github_stats.py`
+generates `github-stats.svg` and `top-languages.svg`. The daily profile workflow
+updates both automatically with the built-in GitHub Actions token. Local runs
+may omit the token, subject to GitHub's anonymous rate limit.
+
+Stars and language bytes include only public, non-fork, non-archived repositories.
+Language shares measure repository code, not proficiency. Contribution totals
+and streaks use the existing 53-week public HTML snapshot, not lifetime totals.
+The most recent data stays committed if a fetch fails.
+
+## Contribution arcade
+
+`.github/workflows/update-contribution-animations.yml` runs daily at 06:37 UTC
+(12:07 IST), on changes to that workflow, or from Actions > Run workflow. It
+generates `assets/arcade/contribution-snake.svg` using
+[Platane/snk](https://github.com/Platane/snk) and
+`assets/arcade/pacman-contributions.svg` using
+[abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
+Both actions are pinned to reviewed revisions and use this profile's username
+and the built-in GitHub token. These animations use GitHub's contribution API;
+the original daily heatmap continues to use public contribution HTML.
+Both workflows share a concurrency group to avoid conflicting generated commits.
+
+The decorative Pac-Man GIF is linked to its original GitHub-hosted source from
+the supplied reference profile. It is decorative, not a representation of stats.
+The README displays no other user's contribution calendar or personal details.
+
+## Expanded technology logos
+
+The skills list includes the technologies the user requested from the supplied
+screenshots, alongside the original profile inventory. Firebase is listed once.
+Additional icons come from [Simple Icons](https://github.com/simple-icons/simple-icons)
+under its bundled CC0 license; original URLs and applicable licenses are retained
+in `assets/skills/`. Portfolio uses a locally authored briefcase icon. Edit
+`data/skills.json` and regenerate `skills.svg` to change the inventory.

@@ -1,5 +1,15 @@
 [
   {
+    "name": "C",
+    "file": "C.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/C.svg"
+  },
+  {
+    "name": "C++",
+    "file": "CPP.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CPP.svg"
+  },
+  {
     "name": "Java",
     "file": "Java-Dark.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg"
@@ -15,12 +25,32 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg"
   },
   {
+    "name": "TypeScript",
+    "file": "TypeScript.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg"
+  },
+  {
+    "name": "Rust",
+    "file": "Rust.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Rust.svg"
+  },
+  {
     "name": "Kotlin",
     "file": "Kotlin-Dark.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kotlin-Dark.svg"
   },
   {
-    "name": "HTML",
+    "name": "PowerShell",
+    "file": "Powershell-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Powershell-Dark.svg"
+  },
+  {
+    "name": "Nim",
+    "file": "Nim-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Nim-Dark.svg"
+  },
+  {
+    "name": "HTML5",
     "file": "HTML.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg"
   },
@@ -35,14 +65,14 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"
   },
   {
-    "name": "Babel",
-    "file": "Babel.svg",
-    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Babel.svg"
+    "name": "React Native",
+    "file": "React-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"
   },
   {
-    "name": "Redux",
-    "file": "Redux.svg",
-    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redux.svg"
+    "name": "Next.js",
+    "file": "NextJS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NextJS-Dark.svg"
   },
   {
     "name": "Node.js",
@@ -55,6 +85,41 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg"
   },
   {
+    "name": "Three.js",
+    "file": "ThreeJS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ThreeJS-Dark.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "file": "TailwindCSS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg"
+  },
+  {
+    "name": "Vite",
+    "file": "Vite-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vite-Dark.svg"
+  },
+  {
+    "name": "Windi CSS",
+    "file": "WindiCSS-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/WindiCSS-Dark.svg"
+  },
+  {
+    "name": "Babel",
+    "file": "Babel.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Babel.svg"
+  },
+  {
+    "name": "Redux",
+    "file": "Redux.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redux.svg"
+  },
+  {
+    "name": "Firebase",
+    "file": "Firebase-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Firebase-Dark.svg"
+  },
+  {
     "name": "MongoDB",
     "file": "MongoDB.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg"
@@ -65,9 +130,29 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg"
   },
   {
+    "name": "Neo4j",
+    "file": "dev-neo4j.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/neo4j/neo4j-original.svg"
+  },
+  {
+    "name": "PostgreSQL",
+    "file": "PostgreSQL-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PostgreSQL-Dark.svg"
+  },
+  {
     "name": "Redis",
     "file": "Redis-Dark.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redis-Dark.svg"
+  },
+  {
+    "name": "SQLite",
+    "file": "SQLite.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/SQLite.svg"
+  },
+  {
+    "name": "Supabase",
+    "file": "Supabase-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Supabase-Dark.svg"
   },
   {
     "name": "Oracle",
@@ -80,6 +165,21 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Dark.svg"
   },
   {
+    "name": "Vercel",
+    "file": "Vercel-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Vercel-Dark.svg"
+  },
+  {
+    "name": "Netlify",
+    "file": "Netlify-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Netlify-Dark.svg"
+  },
+  {
+    "name": "Render",
+    "file": "si-render.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/render.svg"
+  },
+  {
     "name": "Docker",
     "file": "Docker.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg"
@@ -90,14 +190,84 @@
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Dark.svg"
   },
   {
-    "name": "Git",
-    "file": "Git.svg",
-    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg"
+    "name": "OpenCV",
+    "file": "OpenCV-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/OpenCV-Dark.svg"
+  },
+  {
+    "name": "NumPy",
+    "file": "dev-numpy.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/numpy/numpy-original.svg"
+  },
+  {
+    "name": "Pandas",
+    "file": "dev-pandas.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pandas/pandas-original.svg"
+  },
+  {
+    "name": "Plotly",
+    "file": "dev-plotly.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/plotly/plotly-original.svg"
+  },
+  {
+    "name": "Power BI",
+    "file": "si-powerbi.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/powerbi.svg"
+  },
+  {
+    "name": "Adobe",
+    "file": "si-adobe.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/adobe.svg"
+  },
+  {
+    "name": "Blender",
+    "file": "Blender-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Blender-Dark.svg"
+  },
+  {
+    "name": "Canva",
+    "file": "dev-canva.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/canva/canva-original.svg"
   },
   {
     "name": "Figma",
     "file": "Figma-Dark.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Figma-Dark.svg"
+  },
+  {
+    "name": "Portfolio",
+    "file": "custom-portfolio.svg",
+    "source": "Original portfolio icon created for this profile"
+  },
+  {
+    "name": "Git",
+    "file": "Git.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg"
+  },
+  {
+    "name": "GitHub",
+    "file": "Github-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg"
+  },
+  {
+    "name": "GitHub Actions",
+    "file": "GithubActions-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg"
+  },
+  {
+    "name": "GitLab CI",
+    "file": "GitLab-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg"
+  },
+  {
+    "name": "Jasmine",
+    "file": "dev-jasmine.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/jasmine/jasmine-original.svg"
+  },
+  {
+    "name": "Prettier",
+    "file": "si-prettier.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/prettier.svg"
   },
   {
     "name": "Postman",
@@ -108,5 +278,25 @@
     "name": "Unity",
     "file": "Unity-Dark.svg",
     "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Unity-Dark.svg"
+  },
+  {
+    "name": "Unreal Engine",
+    "file": "UnrealEngine.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/UnrealEngine.svg"
+  },
+  {
+    "name": "Steam",
+    "file": "si-steam.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/steam.svg"
+  },
+  {
+    "name": "Raspberry Pi",
+    "file": "RaspberryPi-Dark.svg",
+    "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/RaspberryPi-Dark.svg"
+  },
+  {
+    "name": "NVIDIA",
+    "file": "si-nvidia.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/11.0.0/icons/nvidia.svg"
   }
 ]

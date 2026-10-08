@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="248" viewBox="0 0 860 248" role="img" aria-labelledby="title desc">
+<title id="title">Most used languages</title><desc id="desc">Bytes of code in public, non-fork, non-archived repositories</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}.ascii{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}@media(prefers-reduced-motion:reduce){.reveal{animation:none!important}}</style>
+<rect width="860" height="248" rx="12" fill="#0d1117"/>
+<rect x=".5" y=".5" width="859" height="247" rx="12" fill="none" stroke="#30363d"/>
+<circle cx="20" cy="21" r="3.5" fill="#6e7681"/>
+<circle cx="34" cy="21" r="3.5" fill="#919ba8"/>
+<circle cx="48" cy="21" r="3.5" fill="#d1d9e0"/>
+<text x="77" y="25" font-size="12" fill="#919ba8" >Most used languages</text>
+<path d="M1 40H859" stroke="#21262d"/>
+<text x="24" y="69" font-size="13" fill="#d1d9e0" >Across 17 public original repositories</text>
+<rect x="24.000" y="85" width="342.993" height="12" fill="#f1e05a"/>
+<circle cx="29" cy="123" r="5" fill="#f1e05a"/>
+<text x="42" y="127" font-size="13" fill="#d1d9e0" >JavaScript  42.2%</text>
+<rect x="366.993" y="85" width="199.739" height="12" fill="#e34c26"/>
+<circle cx="307" cy="123" r="5" fill="#e34c26"/>
+<text x="320" y="127" font-size="13" fill="#d1d9e0" >HTML  24.6%</text>
+<rect x="566.732" y="85" width="178.057" height="12" fill="#a371f7"/>
+<circle cx="585" cy="123" r="5" fill="#a371f7"/>
+<text x="598" y="127" font-size="13" fill="#d1d9e0" >CSS  21.9%</text>
+<rect x="744.789" y="85" width="90.999" height="12" fill="#58a6ff"/>
+<circle cx="29" cy="153" r="5" fill="#58a6ff"/>
+<text x="42" y="157" font-size="13" fill="#d1d9e0" >Python  11.2%</text>
+<rect x="835.789" y="85" width="0.211" height="12" fill="#89e051"/>
+<circle cx="307" cy="153" r="5" fill="#89e051"/>
+<text x="320" y="157" font-size="13" fill="#d1d9e0" >Batchfile  &lt;0.1%</text>
+<text x="24" y="226" font-size="10" fill="#919ba8" >Language share by bytes of code / public repos / excludes forks and archived repositories</text>
+</svg>

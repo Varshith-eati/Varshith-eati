@@ -1,0 +1,17 @@
+{
+  "username": "Varshith-eati",
+  "as_of": "2026-10-08",
+  "public_repos": 22,
+  "followers": 2,
+  "stars": 1,
+  "original_repos_analyzed": 17,
+  "languages": {
+    "JavaScript": 134722,
+    "HTML": 78454,
+    "CSS": 69938,
+    "Python": 35743,
+    "Batchfile": 83
+  },
+  "language_scope": "Bytes of code in public, non-fork, non-archived repositories",
+  "source": "https://api.github.com/users/Varshith-eati"
+}

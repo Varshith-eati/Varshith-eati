@@ -12,6 +12,16 @@
 
 <br><br>
 
+<h3>GitHub Stats</h3>
+
+<img src="./github-stats.svg" width="860" alt="My public GitHub repositories, stars, followers, and contribution streaks over the displayed 53 weeks." />
+
+<br><br>
+
+<img src="./top-languages.svg" width="860" alt="Most used languages by bytes of code across my public original repositories. Forks and archived repositories are excluded." />
+
+<br><br>
+
 <h3>A Little About Me</h3>
 
 <table>
@@ -25,7 +35,27 @@
 
 <h3>Skills &amp; Technologies</h3>
 
-<img src="./skills.svg" width="860" alt="Skills: Java, Python, JavaScript, Kotlin; HTML, CSS, React, Babel, Redux, Node.js, Express; MongoDB, MySQL, Redis, Oracle; AWS, Docker, Linux, Git; Figma, Postman, Unity. Each technology is shown with its logo and name." />
+<img src="./skills.svg" width="860" alt="Skills and technologies: C, C++, Java, Python, JavaScript, TypeScript, Rust, Kotlin, PowerShell, Nim, HTML5, CSS, React, React Native, Next.js, Node.js, Express, Three.js, Tailwind CSS, Vite, Windi CSS, Babel, Redux, Firebase, MongoDB, MySQL, Neo4j, PostgreSQL, Redis, SQLite, Supabase, Oracle, AWS, Vercel, Netlify, Render, Docker, Linux, OpenCV, NumPy, Pandas, Plotly, Power BI, Adobe, Blender, Canva, Figma, Portfolio, Git, GitHub, GitHub Actions, GitLab CI, Jasmine, Prettier, Postman, Unity, Unreal Engine, Steam, Raspberry Pi, NVIDIA." />
+
+<br><br>
+
+<h3>My Contribution Arcade</h3>
+
+<p>A playful look at my GitHub activity, refreshed daily.</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="A pixel-art Pac-Man chase." />
+
+<br><br>
+
+<h4>Contribution Snake</h4>
+
+<img src="./assets/arcade/contribution-snake.svg" width="860" alt="A purple snake travels through my real GitHub contribution calendar." />
+
+<br><br>
+
+<h4>Pac-Man Meets My Contributions</h4>
+
+<img src="./assets/arcade/pacman-contributions.svg" width="860" alt="Pac-Man and ghosts play across my GitHub contributions." />
 
 <br><br>
 
@@ -68,6 +98,6 @@ My anime watchlist includes Attack on Titan, Naruto, One Piece, Pokémon, KonoSu
 
 <br>
 
-<sub>Self-contained SVGs · Daily contribution snapshot · <a href="./PROFILE-ART.md">How this profile works</a></sub>
+<sub>Daily stats and contribution animations · <a href="./PROFILE-ART.md">How this profile works</a></sub>
 
 </div>

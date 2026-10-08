@@ -3,6 +3,14 @@
     "category": "Languages",
     "items": [
       {
+        "name": "C",
+        "icon": "C.svg"
+      },
+      {
+        "name": "C++",
+        "icon": "CPP.svg"
+      },
+      {
         "name": "Java",
         "icon": "Java-Dark.svg"
       },
@@ -15,16 +23,32 @@
         "icon": "JavaScript.svg"
       },
       {
+        "name": "TypeScript",
+        "icon": "TypeScript.svg"
+      },
+      {
+        "name": "Rust",
+        "icon": "Rust.svg"
+      },
+      {
         "name": "Kotlin",
         "icon": "Kotlin-Dark.svg"
+      },
+      {
+        "name": "PowerShell",
+        "icon": "Powershell-Dark.svg"
+      },
+      {
+        "name": "Nim",
+        "icon": "Nim-Dark.svg"
       }
     ]
   },
   {
-    "category": "Web",
+    "category": "Web & mobile",
     "items": [
       {
-        "name": "HTML",
+        "name": "HTML5",
         "icon": "HTML.svg"
       },
       {
@@ -36,12 +60,12 @@
         "icon": "React-Dark.svg"
       },
       {
-        "name": "Babel",
-        "icon": "Babel.svg"
+        "name": "React Native",
+        "icon": "React-Dark.svg"
       },
       {
-        "name": "Redux",
-        "icon": "Redux.svg"
+        "name": "Next.js",
+        "icon": "NextJS-Dark.svg"
       },
       {
         "name": "Node.js",
@@ -50,12 +74,40 @@
       {
         "name": "Express",
         "icon": "ExpressJS-Dark.svg"
+      },
+      {
+        "name": "Three.js",
+        "icon": "ThreeJS-Dark.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "TailwindCSS-Dark.svg"
+      },
+      {
+        "name": "Vite",
+        "icon": "Vite-Dark.svg"
+      },
+      {
+        "name": "Windi CSS",
+        "icon": "WindiCSS-Dark.svg"
+      },
+      {
+        "name": "Babel",
+        "icon": "Babel.svg"
+      },
+      {
+        "name": "Redux",
+        "icon": "Redux.svg"
       }
     ]
   },
   {
     "category": "Databases",
     "items": [
+      {
+        "name": "Firebase",
+        "icon": "Firebase-Dark.svg"
+      },
       {
         "name": "MongoDB",
         "icon": "MongoDB.svg"
@@ -65,8 +117,24 @@
         "icon": "MySQL-Dark.svg"
       },
       {
+        "name": "Neo4j",
+        "icon": "dev-neo4j.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "PostgreSQL-Dark.svg"
+      },
+      {
         "name": "Redis",
         "icon": "Redis-Dark.svg"
+      },
+      {
+        "name": "SQLite",
+        "icon": "SQLite.svg"
+      },
+      {
+        "name": "Supabase",
+        "icon": "Supabase-Dark.svg"
       },
       {
         "name": "Oracle",
@@ -75,11 +143,23 @@
     ]
   },
   {
-    "category": "Cloud & DevOps",
+    "category": "Cloud & hosting",
     "items": [
       {
         "name": "AWS",
         "icon": "AWS-Dark.svg"
+      },
+      {
+        "name": "Vercel",
+        "icon": "Vercel-Dark.svg"
+      },
+      {
+        "name": "Netlify",
+        "icon": "Netlify-Dark.svg"
+      },
+      {
+        "name": "Render",
+        "icon": "si-render.svg"
       },
       {
         "name": "Docker",
@@ -88,27 +168,114 @@
       {
         "name": "Linux",
         "icon": "Linux-Dark.svg"
-      },
-      {
-        "name": "Git",
-        "icon": "Git.svg"
       }
     ]
   },
   {
-    "category": "Tools",
+    "category": "Data & AI",
     "items": [
+      {
+        "name": "OpenCV",
+        "icon": "OpenCV-Dark.svg"
+      },
+      {
+        "name": "NumPy",
+        "icon": "dev-numpy.svg"
+      },
+      {
+        "name": "Pandas",
+        "icon": "dev-pandas.svg"
+      },
+      {
+        "name": "Plotly",
+        "icon": "dev-plotly.svg"
+      },
+      {
+        "name": "Power BI",
+        "icon": "si-powerbi.svg"
+      }
+    ]
+  },
+  {
+    "category": "Design",
+    "items": [
+      {
+        "name": "Adobe",
+        "icon": "si-adobe.svg"
+      },
+      {
+        "name": "Blender",
+        "icon": "Blender-Dark.svg"
+      },
+      {
+        "name": "Canva",
+        "icon": "dev-canva.svg"
+      },
       {
         "name": "Figma",
         "icon": "Figma-Dark.svg"
       },
       {
+        "name": "Portfolio",
+        "icon": "custom-portfolio.svg"
+      }
+    ]
+  },
+  {
+    "category": "Developer tools",
+    "items": [
+      {
+        "name": "Git",
+        "icon": "Git.svg"
+      },
+      {
+        "name": "GitHub",
+        "icon": "Github-Dark.svg"
+      },
+      {
+        "name": "GitHub Actions",
+        "icon": "GithubActions-Dark.svg"
+      },
+      {
+        "name": "GitLab CI",
+        "icon": "GitLab-Dark.svg"
+      },
+      {
+        "name": "Jasmine",
+        "icon": "dev-jasmine.svg"
+      },
+      {
+        "name": "Prettier",
+        "icon": "si-prettier.svg"
+      },
+      {
         "name": "Postman",
         "icon": "Postman.svg"
-      },
+      }
+    ]
+  },
+  {
+    "category": "Games & hardware",
+    "items": [
       {
         "name": "Unity",
         "icon": "Unity-Dark.svg"
+      },
+      {
+        "name": "Unreal Engine",
+        "icon": "UnrealEngine.svg"
+      },
+      {
+        "name": "Steam",
+        "icon": "si-steam.svg"
+      },
+      {
+        "name": "Raspberry Pi",
+        "icon": "RaspberryPi-Dark.svg"
+      },
+      {
+        "name": "NVIDIA",
+        "icon": "si-nvidia.svg"
       }
     ]
   }
