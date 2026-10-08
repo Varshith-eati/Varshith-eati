@@ -16,8 +16,8 @@ def render(data, output):
     parts = begin(860, 278, f'{data["username"]} contribution calendar',
                   f'{stats["total"]:,} publicly visible contributions from {start} through {as_of}. '
                   f'Current streak {stats["current_streak"]} days; longest streak {stats["longest_streak"]} days.')
-    chrome(parts, "~/activity / 53 weeks", 860)
-    parts.append(text(834, 25, "SYNC " + data["as_of"] + " UTC", 10, MUTED, 'text-anchor="end"'))
+    chrome(parts, "Contribution activity / 53 weeks", 860)
+    parts.append(text(834, 25, "Updated " + data["as_of"] + " UTC", 10, MUTED, 'text-anchor="end"'))
     parts.append('<style>@keyframes cell{from{opacity:0;transform:translateY(-5px)}'
                  'to{opacity:1;transform:translateY(0)}}</style>')
     for weekday, name in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
@@ -41,16 +41,18 @@ def render(data, output):
             style = f' style="animation:cell .24s ease-out {week*.024+weekday*.028:.3f}s both"' if animated() else ""
             parts.append(f'<rect class="reveal" x="{x}" y="{y}" width="11" height="11" rx="2" '
                          f'fill="{PALETTE[record["level"]]}"{style}><title>{day}: {record["count"]} contributions</title></rect>')
-    parts.append(text(58, 196, f'{stats["total"]:,} contributions / displayed 53-week calendar', 12, FG))
+    parts.append(text(58, 196, f'{stats["total"]:,} contributions over the displayed 53 weeks', 12, FG))
     parts.append(text(674, 196, "Less", 9, MUTED))
     for i, color in enumerate(PALETTE):
         parts.append(f'<rect x="{706+i*14}" y="187" width="11" height="11" rx="2" fill="{color}"/>')
     parts.append(text(781, 196, "More", 9, MUTED))
     parts.append('<path d="M24 214H836" stroke="#21262d"/>')
-    parts.append(text(24, 240, f'CURRENT  {stats["current_streak"]}d', 11, GREEN))
-    parts.append(text(220, 240, f'LONGEST  {stats["longest_streak"]}d', 11, GREEN))
-    parts.append(text(421, 240, f'BEST DAY  {stats["best_day"]["count"]}', 11, GREEN))
-    parts.append(text(834, 240, "PUBLIC GITHUB HTML", 10, MUTED, 'text-anchor="end"'))
+    current_unit = 'day' if stats['current_streak'] == 1 else 'days'
+    longest_unit = 'day' if stats['longest_streak'] == 1 else 'days'
+    parts.append(text(24, 240, f'Current streak: {stats["current_streak"]} {current_unit}', 11, GREEN))
+    parts.append(text(220, 240, f'Longest streak: {stats["longest_streak"]} {longest_unit}', 11, GREEN))
+    parts.append(text(421, 240, f'Best day: {stats["best_day"]["count"]} contributions', 11, GREEN))
+    parts.append(text(834, 240, "From my GitHub activity", 10, MUTED, 'text-anchor="end"'))
     parts.append(text(24, 262, "Daily snapshot / streaks calculated within the displayed period", 9, MUTED))
     save(output, parts)
 

@@ -13,14 +13,14 @@ def render():
     parts = begin(860, height, 'Skills and technologies - Eati Varshith',
                   'Technologies from my profile, each with its logo and name. '
                   + '; '.join(g['category']+': '+', '.join(i['name'] for i in g['items']) for g in groups))
-    chrome(parts, '~/skills / technology inventory', 860)
+    chrome(parts, 'Skills & technologies', 860)
     for row, group in enumerate(groups):
         y = 63 + row*100
         category = group['category'].split(' & ')
         for index, line in enumerate(category):
             if index:
                 line = '& ' + line
-            parts.append(text(22, y+30+index*16, line, 11, MUTED))
+            parts.append(text(22, y+30+index*16, line, 12, MUTED))
         for column, item in enumerate(group['items']):
             x = 148 + column*98
             logo = ET.parse(ROOT / 'assets/skills' / item['icon']).getroot()
@@ -37,7 +37,7 @@ def render():
             logo.set('width', '44')
             logo.set('height', '44')
             parts.append(ET.tostring(logo, encoding='unicode'))
-            parts.append(text(x+40, y+67, item['name'], 11, FG, 'text-anchor="middle"'))
+            parts.append(text(x+40, y+67, item['name'], 12, FG, 'text-anchor="middle"'))
         if row < len(groups)-1:
             parts.append(f'<path d="M22 {y+85}H838" stroke="#21262d"/>')
     save(ROOT / 'skills.svg', parts)

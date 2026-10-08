@@ -5,6 +5,9 @@ finished frame. There is no JavaScript, remote stylesheet, font download, stats
 widget, or external image-rendering service. Reduced-motion preferences show the
 finished frame immediately.
 
+The headings and card labels use a clean sans-serif font. Only the ASCII
+portrait uses a monospace font to keep its character grid aligned.
+
 ## Change the info card
 
 Edit `data/profile.json`, then run `python scripts/make_info_card.py` and commit

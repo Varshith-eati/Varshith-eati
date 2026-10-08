@@ -1,12 +1,18 @@
 <div align="center">
 
-<h3><code>varshith@github ~ $ ./contributions.sh</code></h3>
+<h2>Hi, I'm Varshith</h2>
+
+<p>A Computer Science Engineering student exploring AI, building projects, and learning along the way.</p>
+
+<br>
+
+<h3>My GitHub Activity</h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="My 53-week GitHub contribution calendar, refreshed daily from GitHub's public contribution page." />
 
 <br><br>
 
-<h3><code>varshith@github ~ $ whoami</code></h3>
+<h3>A Little About Me</h3>
 
 <table>
   <tr>
@@ -17,13 +23,13 @@
 
 <br>
 
-<h3><code>varshith@github ~ $ ls skills/</code></h3>
+<h3>Skills &amp; Technologies</h3>
 
 <img src="./skills.svg" width="860" alt="Skills: Java, Python, JavaScript, Kotlin; HTML, CSS, React, Babel, Redux, Node.js, Express; MongoDB, MySQL, Redis, Oracle; AWS, Docker, Linux, Git; Figma, Postman, Unity. Each technology is shown with its logo and name." />
 
 <br><br>
 
-<h3><code>varshith@github ~ $ ls projects/</code></h3>
+<h3>Things I'm Building</h3>
 
 </div>
 
@@ -37,7 +43,7 @@
 
 <br>
 
-<h3><code>varshith@github ~ $ cat links.txt</code></h3>
+<h3>Let's Connect</h3>
 
 <a href="https://github.com/Varshith-eati">GitHub</a> &nbsp; / &nbsp;
 <a href="https://www.linkedin.com/in/varshith-eati-0080661b0/">LinkedIn</a> &nbsp; / &nbsp;
@@ -45,12 +51,12 @@
 
 <br><br>
 
-<code>Learn. Build. Explore. Repeat.</code>
+<p><em>Learn. Build. Explore. Repeat.</em></p>
 
 <br><br>
 
 <details>
-<summary>More about me</summary>
+<summary>Beyond the Code</summary>
 
 <br>
 
