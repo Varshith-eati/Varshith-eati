@@ -1,0 +1,50 @@
+name: Generate contribution animations
+
+on:
+  schedule:
+    - cron: '37 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-contribution-animations.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  animations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/arcade/contribution-snake.svg?palette=github-dark&color_snake=%23c084fc
+      - name: Generate Pac-Man contribution game
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+      - name: Save the arcade animations
+        run: |
+          cp dist/pacman-contribution-graph-dark.svg assets/arcade/pacman-contributions.svg
+          git add assets/arcade/*.svg
+          if git diff --cached --quiet; then
+            echo "Animations are already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contribution animations [skip ci]"
+          git push origin HEAD:main
+
