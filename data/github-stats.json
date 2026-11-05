@@ -1,16 +1,16 @@
 {
   "username": "Varshith-eati",
-  "as_of": "2026-11-04",
-  "public_repos": 26,
-  "followers": 5,
+  "as_of": "2026-11-05",
+  "public_repos": 28,
+  "followers": 7,
   "stars": 1,
-  "original_repos_analyzed": 24,
+  "original_repos_analyzed": 25,
   "languages": {
     "Python": 381594,
-    "JavaScript": 335515,
+    "JavaScript": 353723,
     "TypeScript": 234932,
-    "HTML": 166478,
-    "CSS": 142854,
+    "HTML": 173468,
+    "CSS": 151652,
     "PowerShell": 3715,
     "Batchfile": 769
   },
