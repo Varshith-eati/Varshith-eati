@@ -1,13 +1,13 @@
 {
   "username": "Varshith-eati",
-  "as_of": "2026-11-09",
-  "public_repos": 28,
+  "as_of": "2026-11-10",
+  "public_repos": 29,
   "followers": 7,
   "stars": 1,
-  "original_repos_analyzed": 25,
+  "original_repos_analyzed": 26,
   "languages": {
+    "JavaScript": 478978,
     "Python": 381594,
-    "JavaScript": 353723,
     "TypeScript": 234932,
     "HTML": 173468,
     "CSS": 151652,
